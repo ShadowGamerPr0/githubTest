@@ -1,2 +1,2 @@
-# githunTest
+# githubTest
 first github repository
